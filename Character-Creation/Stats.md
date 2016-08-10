@@ -5,6 +5,7 @@ Primary:
 * Logic (L)
 * Hawtness (H)
 * Intuition (I)
+
 Secondary
 * Strength (s), Agility (a)
 * Education (e)
